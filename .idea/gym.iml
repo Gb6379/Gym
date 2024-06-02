@@ -5,17 +5,4 @@
       <sourceFolder url="file://$MODULE_DIR$/gym" isTestSource="false" />
     </content>
   </component>
-  <component name="FacetManager">
-    <facet type="jpa" name="JPA">
-      <configuration>
-        <setting name="validation-enabled" value="true" />
-        <setting name="provider-name" value="Hibernate" />
-        <datasource-mapping>
-          <factory-entry name="entityManagerFactory" />
-          <factory-entry name="gym" value="04bd15c5-8330-47e6-beb9-50deeb7824c7" />
-        </datasource-mapping>
-        <naming-strategy-map />
-      </configuration>
-    </facet>
-  </component>
 </module>
